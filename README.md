@@ -1,15 +1,7 @@
 <img src="images/svg/header_en.svg"></img>
 <br>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-Soy Vanessa Mosquera, Recientemente completé mi título de Técnico en Análisis y Desarrollo de Sistemas de Información. Mi pasión se centra en el desarrollo frontend, donde he adquirido experiencia en Angular y TypeScript. También tengo conocimientos en Node.js y he trabajado con bases de datos como MySQL y MongoDB. Además, tengo familiaridad con Kotlin, .NET y Java.
 
-Disfruto especialmente trabajando en la parte del frontend, y tengo experiencia en HTML y CSS. Estoy constantemente aprendiendo y buscando oportunidades para mejorar mis habilidades y conocimientos en el desarrollo web. Mi objetivo es crear interfaces atractivas y funcionales que brinden una gran experiencia de usuario.
-
-Durante mi trayectoria, he tenido la oportunidad de brindar asistencia y resolver problemas relacionados con software a usuarios finales. Esta experiencia me ha permitido desarrollar habilidades efectivas de comunicación y empatía, así como la capacidad de resolver problemas de manera eficiente. Estoy familiarizado/a con el análisis de incidencias, la depuración de problemas y la provisión de soluciones adecuadas a los usuarios.
-
-<br>
-<br>
 ### 🔨 Lenguajes y Herramientas:
 
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
@@ -18,6 +10,19 @@ Durante mi trayectoria, he tenido la oportunidad de brindar asistencia y resolve
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
+<br>
+<br>
+
+Soy Vanessa Mosquera, Recientemente completé mi título de Técnico en Análisis y Desarrollo de Sistemas de Información. Mi pasión se centra en el desarrollo frontend, donde he adquirido experiencia en Angular y TypeScript. También tengo conocimientos en Node.js y he trabajado con bases de datos como MySQL y MongoDB. Además, tengo familiaridad con Kotlin, .NET y Java.
+
+Disfruto especialmente trabajando en la parte del frontend, y tengo experiencia en HTML y CSS. Estoy constantemente aprendiendo y buscando oportunidades para mejorar mis habilidades y conocimientos en el desarrollo web. Mi objetivo es crear interfaces atractivas y funcionales que brinden una gran experiencia de usuario.
+
+Durante mi trayectoria, he tenido la oportunidad de brindar asistencia y resolver problemas relacionados con software a usuarios finales. Esta experiencia me ha permitido desarrollar habilidades efectivas de comunicación y empatía, así como la capacidad de resolver problemas de manera eficiente. Estoy familiarizado/a con el análisis de incidencias, la depuración de problemas y la provisión de soluciones adecuadas a los usuarios.
+
+
+
 
 <br>
 <br>
