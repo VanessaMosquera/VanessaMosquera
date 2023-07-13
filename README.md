@@ -21,11 +21,6 @@ I am Vanessa Mosquera. I recently completed my degree in Analysis and Developmen
 
 I particularly enjoy working on the frontend and have experience with HTML and CSS. I am constantly learning and seeking opportunities to improve my skills and knowledge in web development. My goal is to create attractive and functional interfaces that provide a great user experience.
 
-Throughout my career, I have had the opportunity to provide assistance and resolve software-related issues for end users. This experience has allowed me to develop effective communication and empathy skills, as well as the ability to efficiently troubleshoot and provide appropriate solutions to users. I am familiar with incident analysis, problem debugging, and delivering user-centric solutions.
-
-
-
-
 <br>
 <br>
 <p align="center">
