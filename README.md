@@ -1,6 +1,12 @@
 <img src="images/svg/header_en.svg"></img>
 <br>
 
+Recientemente completé mi título de Técnico en Análisis y Desarrollo de Sistemas de Información. Mi pasión se centra en el desarrollo frontend, donde he adquirido experiencia en Angular y TypeScript. También tengo conocimientos en Node.js y he trabajado con bases de datos como MySQL y MongoDB. Además, tengo familiaridad con Kotlin, .NET y Java.
+
+Disfruto especialmente trabajando en la parte del frontend, y tengo experiencia en HTML y CSS. Estoy constantemente aprendiendo y buscando oportunidades para mejorar mis habilidades y conocimientos en el desarrollo web. Mi objetivo es crear interfaces atractivas y funcionales que brinden una gran experiencia de usuario.
+
+<br>
+<br>
 ### 🔨 Lenguajes y Herramientas:
 
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
