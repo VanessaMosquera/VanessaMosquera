@@ -184,17 +184,12 @@ g.typingUnderline rect {
   <textPath xlink:href="#nameTyping" >
       VANESSA MOSQUERA
   </textPath>
+
+</text>
   <text x="19" y="12" font-family="Helvetica" font-size=".22em"
       fill="#AAA" font-weight="bold"> 
-     Echa un vistazo a los proyectos que he realizado mientras adquiero experiencia y sigo mejorando mis habilidades
+     Hola, echa un vistazo a los proyectos que he realizado mientras adquiero experiencia <br> y sigo mejorando mis habilidades
 </text>
-</text>
-
-
-<path id="descriptionTyping">
-  <animate attributeName="d" from="m30,-3 h0" to="m30,-3 h100" 
-           dur="5.8s" begin="0s" fill="freeze"/>
-</path>
 
 
 
