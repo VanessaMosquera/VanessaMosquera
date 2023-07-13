@@ -5,6 +5,8 @@ Soy Vanessa Mosquera, Recientemente completé mi título de Técnico en Análisi
 
 Disfruto especialmente trabajando en la parte del frontend, y tengo experiencia en HTML y CSS. Estoy constantemente aprendiendo y buscando oportunidades para mejorar mis habilidades y conocimientos en el desarrollo web. Mi objetivo es crear interfaces atractivas y funcionales que brinden una gran experiencia de usuario.
 
+Durante mi trayectoria, he tenido la oportunidad de brindar asistencia y resolver problemas relacionados con software a usuarios finales. Esta experiencia me ha permitido desarrollar habilidades efectivas de comunicación y empatía, así como la capacidad de resolver problemas de manera eficiente. Estoy familiarizado/a con el análisis de incidencias, la depuración de problemas y la provisión de soluciones adecuadas a los usuarios.
+
 <br>
 <br>
 ### 🔨 Lenguajes y Herramientas:
