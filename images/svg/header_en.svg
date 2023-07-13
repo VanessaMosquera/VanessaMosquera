@@ -185,10 +185,10 @@ g.typingUnderline rect {
       VANESSA MOSQUERA
   </textPath>
 </text>
-  <text x="19" y="12" font-family="Helvetica" font-size=".22em"
-      fill="#AAA" font-weight="bold"> 
-     Hola, echa un vistazo a mis proyectos que he realizado mientras adquiero experiencia y sigo mejorando mis habilidades
+<text x="10" y="12" font-family="Helvetica" font-size=".22em" fill="#AAA" font-weight="bold"> 
+  Hola, echa un vistazo a los proyectos que he realizado mientras adquiero experiencia y sigo mejorando mis habilidades.
 </text>
+
 
 
 </svg>
