@@ -33,15 +33,15 @@ I particularly enjoy working on the frontend and have experience with HTML and C
 
 
 <!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=pixel-weather">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=vanessamosquera&repo=ytdx">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=vanessamosquera&repo=pixel-weather">
 </p> -->
 
 
 <!--
 ## 📊 &nbsp;Stats
 
-![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=CyrisXD&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=vanessamosquera&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyrisXD&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
