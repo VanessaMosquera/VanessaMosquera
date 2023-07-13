@@ -14,6 +14,8 @@
 
 <br>
 <br>
+<br>
+<br>
 
 Soy Vanessa Mosquera, Recientemente completé mi título de Técnico en Análisis y Desarrollo de Sistemas de Información. Mi pasión se centra en el desarrollo frontend, donde he adquirido experiencia en Angular y TypeScript. También tengo conocimientos en Node.js y he trabajado con bases de datos como MySQL y MongoDB. Además, tengo familiaridad con Kotlin, .NET y Java.
 
