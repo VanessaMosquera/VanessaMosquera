@@ -17,11 +17,11 @@
 <br>
 <br>
 
-Soy Vanessa Mosquera, Recientemente completé mi título de Técnico en Análisis y Desarrollo de Sistemas de Información. Mi pasión se centra en el desarrollo frontend, donde he adquirido experiencia en Angular y TypeScript. También tengo conocimientos en Node.js y he trabajado con bases de datos como MySQL y MongoDB. Además, tengo familiaridad con Kotlin, .NET y Java.
+I am Vanessa Mosquera. I recently completed my degree in Analysis and Development of Information Systems. My passion lies in frontend development, where I have gained experience in Angular and TypeScript. I also have knowledge of Node.js and have worked with databases such as MySQL and MongoDB. Additionally, I am familiar with Kotlin, .NET, and Java.
 
-Disfruto especialmente trabajando en la parte del frontend, y tengo experiencia en HTML y CSS. Estoy constantemente aprendiendo y buscando oportunidades para mejorar mis habilidades y conocimientos en el desarrollo web. Mi objetivo es crear interfaces atractivas y funcionales que brinden una gran experiencia de usuario.
+I particularly enjoy working on the frontend and have experience with HTML and CSS. I am constantly learning and seeking opportunities to improve my skills and knowledge in web development. My goal is to create attractive and functional interfaces that provide a great user experience.
 
-Durante mi trayectoria, he tenido la oportunidad de brindar asistencia y resolver problemas relacionados con software a usuarios finales. Esta experiencia me ha permitido desarrollar habilidades efectivas de comunicación y empatía, así como la capacidad de resolver problemas de manera eficiente. Estoy familiarizado/a con el análisis de incidencias, la depuración de problemas y la provisión de soluciones adecuadas a los usuarios.
+Throughout my career, I have had the opportunity to provide assistance and resolve software-related issues for end users. This experience has allowed me to develop effective communication and empathy skills, as well as the ability to efficiently troubleshoot and provide appropriate solutions to users. I am familiar with incident analysis, problem debugging, and delivering user-centric solutions.
 
 
 
